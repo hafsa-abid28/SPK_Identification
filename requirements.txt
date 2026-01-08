@@ -1,0 +1,5 @@
+torch
+soundfile
+speechbrain
+numpy
+psycopg2-binary
